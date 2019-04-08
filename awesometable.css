@@ -1,0 +1,36 @@
+.google-visualization-table-div-page .gradient, .google-visualization-table-table .gradient {
+  background: #fff !important;
+  text-align: left;
+}
+.count {
+  border: none;
+}
+
+.at-count {
+  display: none;
+}
+
+.at-table-fix {
+  width: 99%;
+  border: 1px solid #ababab;
+}
+
+.google-visualization-table-table th, .google-visualization-table-table td {
+  padding: 15px 15px;
+}
+
+.google-visualization-table-tr-sel td, .google-visualization-table-tr-over td {
+  background: #fff !important;
+}
+
+.google-visualization-table-tr-odd {
+  background-color: #fff !important;
+}
+
+.google-visualization-table-div-page .gradient, .google-visualization-table-table .gradient {
+  padding: -15px !important;
+}
+
+iframe {
+  height: calc(100vh - 100px);
+}
